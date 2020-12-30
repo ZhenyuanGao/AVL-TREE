@@ -15,8 +15,8 @@ for delete, it will be the list of nodes traversed before finding the node to be
 Example:
 
 	input:
-insert 50
-insert 25
+insert 50.
+insert 25.
 insert 10
 insert 5
 insert 7
